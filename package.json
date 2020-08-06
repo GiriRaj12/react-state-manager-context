@@ -1,0 +1,18 @@
+{
+  "name": "react-state-manager-with-context",
+  "version": "1.0.0",
+  "description": "React State Manager with Context. Created for easier plugin to projects without adding redux or any other managers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "state",
+    "manager"
+  ],
+  "author": "Giri Raj",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
